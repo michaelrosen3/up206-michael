@@ -1,2 +1,2 @@
-# up206-michaelrosen
+# up206-michael
 My name is Michael Rosen and I'm a first-year MURP student at UCLA.
