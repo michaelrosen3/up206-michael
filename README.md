@@ -12,7 +12,7 @@ My objectives for UP206A are to:
 * Explore the world of spatial data and learn where I can find cool spatial datasets
 * Build skills that I can use in a professional context
 ## Project ideas
-I'd like to compare race/income data across a city's census tracts against:
+I'd like to look at race/income data across a given city's census tracts and overlay:
 * Oakland's sidewalk trees 
 * Bus stops on LA Metro bus lines  — which communities does a given LA Metro bus line serve?
 * Bicycle parking data in San Francisco
