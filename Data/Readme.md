@@ -12,4 +12,5 @@ Description: This dataset contains demographic and housing data from the 2019 Am
 Description: This dataset contains the location of each sidewalk tree and empty tree well in Oakland, California. I hope to use this to answer my (potential) research question: Are there racial inequalities in the location of Oakland's sidewalk trees?
 
 [Source link](https://oakland-oakgis.opendata.arcgis.com/datasets/trees-sidewalk-raw/explore)
-[Repo link](
+
+[Repo link](https://github.com/michaelrosen3/up206-michael/blob/main/Data/Trees_Sidewalk_Raw%20(1).csv)
